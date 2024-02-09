@@ -1,3 +1,5 @@
+//Author T. Kounoudji Valverde
+
 //This is the code for initializing the main user UI upon a successful log-in.
 //This code does not represent the final version, as SQL research and integration is necessary
 //to fully implement the user database with a legitimate log-in function
