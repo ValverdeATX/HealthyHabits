@@ -1,4 +1,4 @@
-
+//Author Charlie Cox
 public class positiveHabit implements Habit{
     
     String name;
