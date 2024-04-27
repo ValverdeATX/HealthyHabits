@@ -1,7 +1,7 @@
 # Healthy Habits
 Project Name: Healthy Habits Program (Phase One)
 
-Authors: Theo K. Valverde, Charlie Cox
+Authors: T. K. Valverde, Charlie Cox
 
 Texas State University
 
